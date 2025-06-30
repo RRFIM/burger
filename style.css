@@ -1,0 +1,100 @@
+
+.thesite
+{
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    margin-right: 0vw;
+    margin-left: 0vw;
+}
+
+.stuff-holder 
+{
+    background-color: brown;
+    .title
+    {
+        font-family: 'sans-serif';
+        margin-left: 20vw;
+        margin-top: 0vw;
+        color: white;
+        font-size: 98px;
+    }
+    .catch-frase
+    {
+        font-family: 'sans-serif';
+        margin-left: 20vw;
+        margin-top: 1vw;
+        color: white;
+        font-size: 50px;
+    }
+    .burger
+    {
+        margin-left: 55vw;
+        margin-top: -39vw;
+    }
+}
+
+.stuff-holderII 
+{
+    background-color: rgb(253, 73, 28);
+    .catch-frase
+    {
+        color: white;
+        font-family: 'sans-serif';
+        font-size: 30px;
+        margin-left: 38vw;
+        margin-top: 0;
+    }
+    .invitation
+    {
+        color: white;
+        font-family: 'sans-serif';
+        font-size: 100px;
+        margin-left: 20vw;
+        line-height: 0%;
+        
+    }
+    .location
+    {
+        margin-left: 32vw;
+        margin-top: 3vw;
+        outline-color: white;
+        outline-style: solid;
+    }
+    .icons
+    {
+        margin-left: 37vw;
+
+        .iconII
+        {
+            margin-left: 3vw;
+        }
+        .iconIII
+        {
+            margin-left: 2vw;
+        }
+    }
+}
+
+.stuff-holderIII
+{
+    background-color: rgb(191, 163, 78);
+    padding-left: 3vw;
+    .poem
+    {
+        position: absolute;
+        padding-left: 73vw;
+        font-size: 51px;
+    }
+    .title
+    {
+        position: absolute;
+        padding-left: 32vw;
+        font-size: 120px;
+    }
+    .poemII
+    {
+        position: absolute;
+        font-size: 51px;
+    }
+
+}
